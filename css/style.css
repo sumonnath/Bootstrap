@@ -6,7 +6,7 @@ body {
 	margin-bottom: 30px;
 }
 
-.alignment .row {
+.container-fluid {
 	background-color: #ddd;
 	height: 160px;
 }
